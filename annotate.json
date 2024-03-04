@@ -1,0 +1,118 @@
+{
+    "RPReplay_Final1709555946.MP4": [
+        {
+            "start_frame": "47",
+            "end_frame": "57",
+            "action_type": "click",
+            "down_coordinate": [
+                44.40901771336566,
+                25.666666666666654
+            ],
+            "up_coordinate": [
+                44.40901771336566,
+                25.666666666666654
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "90",
+            "end_frame": "155",
+            "action_type": "type",
+            "down_coordinate": [
+                49.819645732689224,
+                53.916666666666664
+            ],
+            "up_coordinate": [
+                49.819645732689224,
+                53.916666666666664
+            ],
+            "type_word": btc
+        },
+        {
+            "start_frame": "162",
+            "end_frame": "165",
+            "action_type": "click",
+            "down_coordinate": [
+                87.33333333333333,
+                83.0
+            ],
+            "up_coordinate": [
+                87.33333333333333,
+                83.0
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "220",
+            "end_frame": "303",
+            "action_type": "swipe",
+            "down_coordinate": [
+                48.19645732689212,
+                -17.500000000000004
+            ],
+            "up_coordinate": [
+                48.19645732689212,
+                -17.500000000000004
+            ],
+            "type_word": null
+        }
+    ],
+    "RPReplay_Final1709556080.MP4": [
+        {
+            "start_frame": "22",
+            "end_frame": "54",
+            "action_type": "swipe",
+            "down_coordinate": [
+                47.655394524959746,
+                -11.999999999999996
+            ],
+            "up_coordinate": [
+                47.655394524959746,
+                -11.999999999999996
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "63",
+            "end_frame": "68",
+            "action_type": "click",
+            "down_coordinate": [
+                44.76972624798713,
+                21.666666666666664
+            ],
+            "up_coordinate": [
+                44.76972624798713,
+                21.666666666666664
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": "103",
+            "end_frame": "195",
+            "action_type": "type",
+            "down_coordinate": [
+                49.63929146537844,
+                54.08333333333333
+            ],
+            "up_coordinate": [
+                49.63929146537844,
+                54.08333333333333
+            ],
+            "type_word": btc
+        },
+        {
+            "start_frame": "199",
+            "end_frame": "205",
+            "action_type": "click",
+            "down_coordinate": [
+                87.33333333333334,
+                84.08333333333334
+            ],
+            "up_coordinate": [
+                87.33333333333334,
+                84.08333333333334
+            ],
+            "type_word": null
+        }
+    ]
+}
